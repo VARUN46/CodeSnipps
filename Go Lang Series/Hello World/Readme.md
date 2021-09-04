@@ -1,8 +1,12 @@
-#To Create Module
-go mod init varun/app/console
+**To Create Module**
 
-#To Run The App
-go run .
+_go mod init varun/app/console_
 
-#To Create The Build
-go build
+**To Run The App**
+
+_go run ._
+
+
+**To Create The Build**
+
+_go build_
